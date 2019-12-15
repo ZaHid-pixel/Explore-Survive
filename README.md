@@ -1,5 +1,5 @@
 # Profile
-![Tux, the Linux mascot](/IMG_E5832.gpg)
+![Tux, the Linux mascot](/IMG_E5832.JPG)
 Welcome to my profile
 ## Education
 1. MBA
