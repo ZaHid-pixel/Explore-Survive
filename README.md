@@ -1,4 +1,5 @@
 # Profile
+![Tux, the Linux mascot](/IMG_E5832.gpg)
 Welcome to my profile
 ## Education
 1. MBA
@@ -6,5 +7,6 @@ Welcome to my profile
 ## Work Experience
 1. ACI Motors Limited (Yamaha Motorcycle)
 2. IPE Technologies Limited (Philips Electronics)
+
 -----------------------------------------------------
 Contact me: zahidnoman90@yahoo.com
